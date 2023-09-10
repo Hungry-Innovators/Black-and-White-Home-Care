@@ -1,7 +1,6 @@
-<h1>coHub Hugo</h1>
-<img src="https://user-images.githubusercontent.com/17458664/150072315-13c8a214-a88e-44da-8ab0-6cf353c1feec.png" alt="screenshot" width="100%">
+<h1>Black & White Home Care</h1>
 
-coHub is a simple, minimal and responsive Portfolio Hugo Theme. coHub is well organized, well-formatted and named accordingly so it’s easy to change any and all of the design. coHub is built with Bootstrap 4.5. You can customize it very easy to fit your needs.
+Black & White Home Care
 
 ## Table of Contents
 

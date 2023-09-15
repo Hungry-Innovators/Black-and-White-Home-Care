@@ -1,48 +1,42 @@
-<h1>Black & White Home Care</h1>
+# Megakit
 
-Black & White Home Care
+Business template for Hugo. Browse through a [live demo](https://timely-land.cloudvent.net/). This theme has been adapted from the MIT licensed [Megakit Bootstrap template from Theme Fisher](https://github.com/themefisher/Megakit-Bootstrap-Agency-Template)
 
-## Table of Contents
+![Megakit template screenshot](images/_screenshot.png)
 
-- [Live Demo](#live-demo)
-- [Installation](#installation)
-- [Main Features](#features)
-- [Support](#support)
-- [Licensing](#licensing)
-- [Hire](#hire)
+Megakit was made by [Themefisher](https://themefisher.com/) and converted to Hugo by [CloudCannon](https://cloudcannon.com/), a Jamstack platform for the whole team.
 
-## Live Demo
-
-Checkout the live demo [here](https://cohub-hugo.netlify.app/)
-
-## Installation
-
-1. Add the repository into your Hugo Project repository as a submodule, `git submodule add git@github.com:StaticMania/hugo-coHub.git themes/coHub`.
-2. Copy the `data`, `content`, `static`, `resources` & `config.toml` files from the `exampleSite` directory and paste it on you Hugo Project repository/directory. From the site home directory:
-
-   cp -a themes/coHub/exampleSite/\* .
-
-3. Build your site with `hugo serve` and see the result at `http://localhost:1313/`.
+[![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/megakit-hugo-template)
 
 ## Features
 
-- Responsive Ready.
-- Powered by Bootstrap 4.5.
-- Blog Support.
-- Well formatted code.
-- Easy Customization.
-- FabForm.io [static website forms](https://fabform.io).
-- Google Analytics.
-- Crafted for Personal Portfolio
+* Contact form
+* Pre-built pages
+* Pre-styled components
+* Blog with pagination and category pages
+* Configurable footer
+* Optimised for editing in [CloudCannon](https://cloudcannon.com/)
 
-## Support
+## Setup
 
-Have some question or facing any technical trouble feel free to [Contact Us](https://staticmania.com/contact/)
+Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Hugo locally).
 
-## Licensing
+## Develop
 
-This Repository is licensed under the [MIT](https://github.com/StaticMania/coHub/blob/master/LICENSE) License
+Megakit was built with [Hugo](https://gohugo.io/) version `0.87.0`, but should support newer versions as well.
 
-## Hire
+Run the standalone executable `hugo` to serve the site locally:
 
-Need help to build HUGO websites with your custom requirements. Feel free to [contact](https://staticmania.com/contact/) with us. We provide custom development service for HUGO.
+~~~bash
+$ hugo server
+~~~
+
+## Editing
+
+Megakit is set up for adding, updating and removing pages, components, posts, company details and footer elements in [CloudCannon](https://app.cloudcannon.com/).
+
+
+### Company details
+
+* Reused around the site to save multiple editing locations.
+* Set in the *Data* / *Company* section.

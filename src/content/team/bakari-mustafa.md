@@ -1,7 +1,7 @@
 ---
 draft: false
 name: "Bakari Mustafa"
-title: "Developer"
+title: "IT Support"
 avatar: {
     src: "https://upload.wikimedia.org/wikipedia/commons/8/89/Portrait_Placeholder.png",
     alt: "Bakari Mustafa"

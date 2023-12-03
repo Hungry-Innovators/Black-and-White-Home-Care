@@ -1,7 +1,7 @@
 ---
 draft: false
 name: "Fiston Ngaboyeka"
-title: "Developer"
+title: "Director"
 avatar: {
     src: "https://upload.wikimedia.org/wikipedia/commons/8/89/Portrait_Placeholder.png",
     alt: "Fiston Ngaboyeka"
